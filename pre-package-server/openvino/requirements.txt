@@ -1,0 +1,4 @@
+seldon-core==1.6.0
+openvino==2021.4.*
+openvino-extensions
+opencv-python
